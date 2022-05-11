@@ -24,7 +24,7 @@ Freeboard is an app that helps you freely create a keyboard that fits your hand 
 
 ## :eyes: Demo
 
-Insert gif or link to demo
+https://youtu.be/XXkhVd-ziIw
 
 <br/> 
 
