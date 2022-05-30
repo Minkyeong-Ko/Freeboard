@@ -1,6 +1,6 @@
 # :keyboard: Freeboard
 
-WWDC22 Swift Student Challenge Submission
+WWDC22 Swift Student Challenge Submission (Accepted)
 
 Freeboard is an app that helps you freely create a keyboard that fits your hand shape.
 
